@@ -1,9 +1,9 @@
 {
-  "name": "FLASH-MD",
-  "description": "An easy and simple WhatsApp bot developed by France King",
+  "name": "DAVINCS-MD",
+  "description": "An easy and simple WhatsApp bot developed by Allan Davincs",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
-  "repository": "https://github.com/franceking1/Flash-Md",
+  "repository": "https://github.com/9Wish882/DAVINCS-MD/",
   "succes_url": "/",
   "stack": "heroku-24",
 
@@ -78,18 +78,18 @@
       "required": false
     },
     "SESSION_ID": {
-      "description": "Place your unique FLASH MD session ID here. This is required for the bot to function.",
+      "description": "Place your unique DAVINCS MD session ID here. This is required for the bot to function.",
       "value": "",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter the name of the bot owner. This name will be displayed when required.",
-      "value": "France King",
+      "value": "Allan Davincs",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your phone number without the '+' sign. Use your country code (e.g., '254' for Kenya).",
-      "value": "254751284190",
+      "value": "255759637644",
       "required": false
     },
     "WARN_COUNT": {
