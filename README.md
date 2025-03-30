@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #FF6347;">THANKS 🙏 YOU FOR CHOOSING DAVINCS-MD BEST WHATSAPP BOT  </h1>
-
+<marque>Coded by Allan Davincs</marque>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HELLOO+THIS+IS+DAVINCS-MD; BEST++WHATSAPP+BOT;CREATED+BY+ALLAN+DAVINCS;RELEASED+01.4.2025" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="DAVINCS-MD" width="700" height="300" src="https://files.catbox.moe/ihih3i.jpg">
+  <img alt="DAVINCS-MD" width="700" height="300" src="https://files.catbox.moe/cwag4p.jpg">
 </p>
 
 ---
