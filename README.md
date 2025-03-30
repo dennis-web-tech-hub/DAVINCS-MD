@@ -1,18 +1,18 @@
-<h1 align="center" style="color: #FF6347;">𝐓𝐇𝐄 𝐅𝐋𝐀𝐒𝐇 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄</h1>
+<h1 align="center" style="color: #FF6347;">HELLO THIS IS YOUR FAVORITE DAVINCS MD BOT </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+FLASH-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FRANCE+KING;RELEASED+22.2.2024" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+DAVINCS-MD;+WHATSAPP+BOT;CREATED+BY+ALLAN+DAVINCS;RELEASED+01.4.2025" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img alt="FLASH-MD" width="700" height="300" src="https://files.catbox.moe/tvo4g6.jpg">
+  <img alt="DAVINCS-MD" width="700" height="300" src="https://files.catbox.moe/tvo4g6.jpg">
 </p>
 
 ---
 
-### 🌟 **Repository Stats**:
+### ⭐ **about this repository**:
 <p align="center">
   <a href="https://github.com/franceking1/Flash-Md/stargazers">
     <img src="https://img.shields.io/github/stars/franceking1/Flash-Md?style=for-the-badge&logo=github&color=ff9800" alt="Stars" />
@@ -43,7 +43,7 @@
    - **[Pairing Code 1](https://king-france.vercel.app/)**
    - **[Pairing Code 2](https://the-flash-md-sessions.onrender.com/pair)**
 
-   > **⚠️ Important**: Copy your Session ID – you will need it for deployment.
+   > **⚠️ NOTE**: Copy your Session ID – you will need it for deployment.
 
 ---
 
@@ -51,14 +51,14 @@
 
 Now that you have your session ID, deploy the bot to Heroku:
 
-1. **Create a Heroku Account** (If you don’t have one):  
+1. **Create a Heroku Account** (in case you have not yet created account ):  
    <p align="center">
      <a href="https://signup.heroku.com">
        <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
      </a>
    </p>
 
-2. **Deploy Flash-MD** Now (If you already have a Heroku account):  
+2. **Deploy DAVINCS-MD** Now (If you already have a Heroku account):  
    <p align="center">
      <a href="https://france-king.vercel.app">
        <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
@@ -81,16 +81,8 @@ If you face any issues or need assistance:
 
 ---
 
-### 🙏 **Special Thanks:**
-
-Huge thanks to these amazing contributors:
-
-- [**Fortunatus Mokaya**](https://github.com/Fortunatusmokaya) – For adding awesome commands.
-- [**Gifted Tech**](https://github.com/mouricedevs) – For session generation support.
-- [**Suhail Ser**](https://github.com/SuhailTechInfo) – For code encryption improvements.
-- [**Luffy**](https://github.com/Luffy2ndAccount) – For providing the base code of **Flash-MD**.
 
 ---
 
-### 🎉 **Thank You for Choosing Flash-MD!**
+### 🌝**Thank You for Choosing DAVINCS-MD!**
  © 2025 **All Rights Reserved**
