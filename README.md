@@ -18,16 +18,16 @@
     <img src="https://img.shields.io/github/stars/franceking1/Flash-Md?style=for-the-badge&logo=github&color=ff9800" alt="Stars" />
   </a>
   <a href="https://github.com/franceking1/Flash-Md/network/members">
-    <img src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=for-the-badge&logo=github&color=4CAF50" alt="Forks" />
+    <img src="https://github.com/9Wish882/DAVINCS-MD/forks?style=for-the-badge&logo=github&color=4CAF50" alt="Forks" />
   </a>
   <a href="  https://github.com/9Wish882/DAVINCS-MD/watchers ">
     <img src="https://img.shields.io/github/watchers/franceking1/Flash-Md?style=for-the-badge&logo=github&color=2196F3" alt="Watchers" />
   </a>
   <a href="https://github.com/9Wish882/DAVINCS-MD/issues">
-    <img src="https://img.shields.io/github/issues/franceking1/Flash-Md?style=for-the-badge&logo=github&color=e91e63" alt="Issues" />
+    <img src="https://img.shields.io/github/issues/9wish882/DAVINCS-MD?style=for-the-badge&logo=github&color=e91e63" alt="Issues" />
   </a>
-  <a href="https://github.com/franceking1/Flash-Md/pulls">
-    <img src="https://img.shields.io/github/issues-pr/franceking1/Flash-Md?style=for-the-badge&logo=github&color=673AB7" alt="Pull Requests" />
+  <a href="https://github.com/9wish882/DAVINCS-MD/pulls">
+    <img src="https://img.shields.io/github/issues-pr/9wish882/DAVINCS-MD?style=for-the-badge&logo=github&color=673AB7" alt="Pull Requests" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 ### 🚀 **Quick Start:**
 
 1. **Star ⭐ & Fork** the Repo:
-   - **[Star](https://github.com/franceking1/Flash-Md)** & **[Fork](https://github.com/9Wish882/DAVINCS-MD/forks)** this repository to your GitHub account.
+   - **[Star](https://github.com/9wish882/DAVINCS-MD)** & **[Fork](https://github.com/9Wish882/DAVINCS-MD/forks)** this repository to your GitHub account.
 
 2. **Get Your Session ID Using**:
    - **[QR SCANNER](https://the-flash-scanner.onrender.com/)**
