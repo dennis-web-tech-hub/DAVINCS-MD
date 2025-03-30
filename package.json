@@ -1,5 +1,5 @@
 {
-    "name": "FLASH-MD",
+    "name": "DAVINCS-MD",
   "version": "2.0.0",
   "description": "",
   "main": "flash.js",
@@ -11,12 +11,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Flash-Md",
+    "Davincs-Md",
     "whatsapp",
     "whatsapp-bot",
-    "franceking1"
+    "AllanDavincs"
   ],
-  "author": "France King",
+  "author": "Allan Davincs",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
