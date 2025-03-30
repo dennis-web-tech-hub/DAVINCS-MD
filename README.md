@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="DAVINCS-MD" width="700" height="300" src=" https://files.catbox.moe/ihih3i.jpg ">
+  <img alt="DAVINCS-MD" width="700" height="300" src="https://files.catbox.moe/ihih3i.jpg">
 </p>
 
 ---
