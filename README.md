@@ -36,7 +36,7 @@
 ### 🚀 **Quick Start:**
 
 1. **Star ⭐ & Fork** the Repo:
-   - **[Star](https://github.com/franceking1/Flash-Md)** & **[Fork](https://github.com/franceking1/Flash-Md/fork)** this repository to your GitHub account.
+   - **[Star](https://github.com/franceking1/Flash-Md)** & **[Fork](https://github.com/9Wish882/DAVINCS-MD/forks)** this repository to your GitHub account.
 
 2. **Get Your Session ID Using**:
    - **[QR SCANNER](https://the-flash-scanner.onrender.com/)**
