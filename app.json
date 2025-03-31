@@ -55,7 +55,7 @@
     },
     "TIME_ZONE": {
       "description": "Specify your country's time zone (e.g., 'Africa/Nairobi'). This ensures that bot activities follow your local time.",
-      "value": "Africa/Nairobi",
+      "value": "Africa/DSM🇹🇿",
       "required": false
     },
     "ANTICALL": {
