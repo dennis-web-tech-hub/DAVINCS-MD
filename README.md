@@ -14,10 +14,10 @@
 
 ### ⭐ **about this repository**:
 <p align="center">
-  <a href="https://github.com/franceking1/Flash-Md/stargazers">
+  <a href="https://github.com/9Wish882/DAVINCS-MD//stargazers">
     <img src="https://img.shields.io/github/stars/franceking1/Flash-Md?style=for-the-badge&logo=github&color=ff9800" alt="Stars" />
   </a>
-  <a href="https://github.com/franceking1/Flash-Md/network/members">
+  <a href="https://github.com/9Wish882/DAVINCS-MD//network/members">
     <img src="https://github.com/9Wish882/DAVINCS-MD/forks?style=for-the-badge&logo=github&color=4CAF50" alt="Forks" />
   </a>
   <a href="  https://github.com/9Wish882/DAVINCS-MD/watchers ">
