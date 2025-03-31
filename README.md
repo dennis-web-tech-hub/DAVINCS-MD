@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HELLO+THIS+IS+DAVINCS-MD; BEST++WHATSAPP+BOT;CREATED+BY+ALLAN+DAVINCS;RELEASED+01.4.2025;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HELLOO+THIS+IS+DAVINCS-MD;BEST++WHATSAPP+BOT;CREATED+BY+ALLAN+DAVINCS;RELEASED+01.4.2025;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -52,4 +52,29 @@
 2️⃣ **Click below to deploy DAVINCS-MD directly to Heroku:**  
    <p align="center">
      <a href="https://heroku.com/deploy?template=https://github.com/9Wish882/DAVINCS-MD">
-       <img src="
+       <img src="https://www.herokucdn.com/deploy/button.svg" width="220" height="38.45"/>
+     </a>
+   </p>
+
+3️⃣ **After Deployment:**  
+   - Open **Heroku Dashboard**  
+   - Go to **Settings**  
+   - Add **SESSION_ID** under **Config Vars**  
+   - **Start the Bot!** 🚀  
+
+---
+
+## ⚠️ **Disclaimer**
+- **Modification or redistribution** of this script is **prohibited**.  
+- **No support** will be provided for modified versions.  
+
+---
+
+## 🛠 **Need Help?**
+If you need assistance:
+- **[Click Here for Support](https://messages-snowy.vercel.app)**  
+
+---
+
+### 🎉 **Thank You for Choosing DAVINCS-MD!**
+📌 **© 2025 All Rights Reserved**
