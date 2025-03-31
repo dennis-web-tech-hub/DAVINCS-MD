@@ -1,8 +1,8 @@
-<h1 align="center" style="color: #FF6347;">THANKS FOR CHOOSING DAVINCS-MD - BEST WHATSAPP BOT</h1>
+<h1 align="center" style="color: #FF6347;">🔥 THANKS FOR CHOOSING DAVINCS-MD - BEST WHATSAPP BOT 🔥</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HELLOO+THIS+IS+DAVINCS-MD;BEST++WHATSAPP+BOT;CREATED+BY+ALLAN+DAVINCS;RELEASED+01.4.2025;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HELLO+THIS+IS+DAVINCS-MD; BEST++WHATSAPP+BOT;CREATED+BY+ALLAN+DAVINCS;RELEASED+01.4.2025;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 
 ---
 
-### ⭐ **About This Repository**:
+## ⭐ **About This Repository**
 <p align="center">
   <a href="https://github.com/9Wish882/DAVINCS-MD/stargazers">
     <img src="https://img.shields.io/github/stars/9Wish882/DAVINCS-MD?style=for-the-badge&logo=github&color=ff9800" alt="Stars" />
@@ -23,63 +23,58 @@
   <a href="https://github.com/9Wish882/DAVINCS-MD/watchers">
     <img src="https://img.shields.io/github/watchers/9Wish882/DAVINCS-MD?style=for-the-badge&logo=github&color=2196F3" alt="Watchers" />
   </a>
-  <a href="https://github.com/9Wish882/DAVINCS-MD/issues">
-    <img src="https://img.shields.io/github/issues/9Wish882/DAVINCS-MD?style=for-the-badge&logo=github&color=e91e63" alt="Issues" />
-  </a>
-  <a href="https://github.com/9Wish882/DAVINCS-MD/pulls">
-    <img src="https://img.shields.io/github/issues-pr/9Wish882/DAVINCS-MD?style=for-the-badge&logo=github&color=673AB7" alt="Pull Requests" />
-  </a>
 </p>
 
 ---
 
-### 🚀 **Quick Start:**
+## 🚀 **Quick Start:**
 
-1. **Star ⭐ & Fork** the Repo:
-   - **[Star](https://github.com/9Wish882/DAVINCS-MD)** & **[Fork](https://github.com/9Wish882/DAVINCS-MD/forks)** this repository to your GitHub account.
+### 1️⃣ **Fork & Star Repo**
+- **[Star](https://github.com/9Wish882/DAVINCS-MD)** & **[Fork](https://github.com/9Wish882/DAVINCS-MD/forks)** repo kwenye akaunti yako ya GitHub.
 
-2. **Get Your Session ID Using**:
-   - **[QR SCANNER](https://davincs-scanner.onrender.com/)**
-   - **[Pairing Code 1](https://davincs-md.vercel.app/)**
-   - **[Pairing Code 2](https://davincs-md-sessions.onrender.com/pair)**
+### 2️⃣ **Get Your Session ID**
+- **[QR SCANNER](https://the-flash-scanner.onrender.com/)**
+- **[Pairing Code 1](https://king-france.vercel.app/)**
+- **[Pairing Code 2](https://the-flash-md-sessions.onrender.com/pair)**  
 
-   > **⚠️ NOTE**: Copy your Session ID – you will need it for deployment.
+⚠️ **Muhimu:** Hifadhi **Session ID** yako, utaihitaji wakati wa deployment.
 
 ---
 
-### 🚀 **Deploy to Heroku:**
-
-Now that you have your session ID, deploy the bot to Heroku:
-
-1. **Create a Heroku Account** (in case you have not yet created account):  
+## 🚀 **Deploy to Heroku (One-Click Deploy!)**
+1️⃣ **Fungua akaunti ya Heroku (Ikiwa bado huna)**  
    <p align="center">
      <a href="https://signup.heroku.com">
        <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
      </a>
    </p>
 
-2. **✴️✴️ Deploy DAVINCS-MD Now (If you already have a Heroku account):**  
+2️⃣ **Bonyeza hapa ku-Deploy DAVINCS-MD moja kwa moja kwa Heroku:**  
    <p align="center">
-     <a href="https://davincs-md.vercel.app">
-       <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
+     <a href="https://heroku.com/deploy?template=https://github.com/9Wish882/DAVINCS-MD">
+       <img src="https://www.herokucdn.com/deploy/button.svg" width="220" height="38.45"/>
      </a>
    </p>
 
----
-
-### ⚠️❌ **Disclaimer:**
-
-- **Modifying** or **redistributing** this script is **prohibited**.
-- **No support** will be provided for modified versions.
-
----
-
-### 🛠 **Need Help?**
-
-If you face any issues or need assistance:
-- **[Click here for support](https://messages-snowy.vercel.app)**
+3️⃣ **Baada ya Deployment:**
+   - Fungua **Heroku Dashboard**  
+   - Nenda kwenye **Settings**  
+   - Ongeza **SESSION_ID** kwenye **Config Vars**  
+   - **Start the Bot!** 🚀  
 
 ---
 
-### 🌝 **Thank You for Choosing DAVINCS-MD!**  
-© 2025 **All Rights Reserved**
+## ⚠️ **Disclaimer**
+- **Huruhusiwi** kurekebisha au kusambaza bot hii bila ruhusa.  
+- **Hakuna msaada** utakaotolewa kwa matoleo yaliyorekebishwa.  
+
+---
+
+## 🛠 **Need Help?**
+Ikiwa unahitaji msaada:
+- **[Click Here for Support](https://messages-snowy.vercel.app)**  
+
+---
+
+### 🎉 **Thank You for Choosing DAVINCS-MD!**
+📌 **© 2025 All Rights Reserved**
