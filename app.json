@@ -1,8 +1,8 @@
 {
   "name": "DAVINCS-MD",
-  "description": "An easy and simple WhatsApp bot developed by Allan Davincs",
+  "description": "An easy and simple WhatsApp bot developed by Allan*Davincs",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
-  "logo": "https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+  "logo": "https://files.catbox.moe/lcori6.jpg",
   "repository": "https://github.com/9Wish882/DAVINCS-MD/",
   "succes_url": "/",
   "stack": "heroku-24",
