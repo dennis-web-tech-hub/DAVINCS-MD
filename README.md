@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #FF6347;">🔥 THANKS FOR CHOOSING DAVINCS-MD - BEST WHATSAPP BOT 🔥</h1>
+<h1 align="center" style="color: #FF6347;"> THANKS FOR CHOOSING DAVINCS-MD - THE BEST WHATSAPP BOT </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
