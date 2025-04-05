@@ -33,9 +33,9 @@
 - **[Star](https://github.com/9Wish882/DAVINCS-MD)** & **[Fork](https://github.com/9Wish882/DAVINCS-MD/forks)** the repo in your GitHub account.
 
 ### 2️⃣ **Get Your Session ID**
-- **[QR SCANNER](https://the-flash-scanner.onrender.com/)**
-- **[Pairing Code 1](https://king-france.vercel.app/)**
-- **[Pairing Code 2](https://the-flash-md-sessions.onrender.com/pair)**  
+- **[QR SCANNER](https://the-davincs-scanner.onrender.com/)**
+- **[Pairing Code 1](https://da-vincs.vercel.app/)**
+- **[Pairing Code 2](https://the-davincs-md-sessions.onrender.com/pair)**  
 
 ⚠️ **Important:** Copy and save your **Session ID**, you will need it for deployment.
 
