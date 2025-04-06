@@ -33,9 +33,11 @@
 - **[Star](https://github.com/9Wish882/DAVINCS-MD)** & **[Fork](https://github.com/9Wish882/DAVINCS-MD/forks)** the repo in your GitHub account.
 
 ### 2️⃣ **Get Your Session ID**
-- **[QR SCANNER](https://the-davincs-scanner.onrender.com/)**
-- **[Pairing Code 1](https://da-vincs.vercel.app/)**
-- **[Pairing Code 2](https://the-davincs-md-sessions.onrender.com/pair)**  
+- **[QR SCANNER](https://davincsmd-session.onrender.com/wasiqr)**
+- **[Pairing Code 1](https://davincsmd-session.onrender.com/pair)**
+- **[For more information] tap here 👇
+https://davincsmd-session.onrender.com/
+Get your session Id
 
 ⚠️ **Important:** Copy and save your **Session ID**, you will need it for deployment.
 
@@ -56,11 +58,7 @@
      </a>
    </p>
 
-3️⃣ **After Deployment:**  
-   - Open **Heroku Dashboard**  
-   - Go to **Settings**  
-   - Add **SESSION_ID** under **Config Vars**  
-   - **Start the Bot!** 🚀  
+3️⃣ **After Deployment Make your to follow my channel for bot update:**   
 
 ---
 
