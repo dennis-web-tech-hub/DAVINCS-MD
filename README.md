@@ -29,10 +29,10 @@
 
 ## 🚀 **Quick Start:**
 
-### 1️⃣ **Fork & Star Repo**
+### Step 1️⃣ **Fork & Star Repo**
 - **[Star](https://github.com/9Wish882/DAVINCS-MD)** & **[Fork](https://github.com/9Wish882/DAVINCS-MD/forks)** the repo in your GitHub account.
 
-### 2️⃣ **Get Your Session ID**
+### Step 2️⃣ **Get Your Session ID**
 - **[QR SCANNER](https://davincsmd-session.onrender.com/wasiqr)**
 - **[Pairing Code 1](https://davincsmd-session.onrender.com/pair)**
 - **[For more information] tap here 👇
@@ -43,7 +43,7 @@ Get your session Id
 
 ---
 
-## 🚀 **Deploy to Heroku (One-Click Deploy!)**
+## 🚀 ** Now Deploy to Heroku (One-Click Deploy!)**
 1️⃣ **Create a Heroku Account (If you don’t have one)**  
    <p align="center">
      <a href="https://signup.heroku.com">
