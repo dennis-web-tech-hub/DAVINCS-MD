@@ -28,8 +28,8 @@ D ☞ tiger 🐯 video logo
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "LUCKY MD",
-        body: "Pambe Kwa, Frediezra",
+        title: "DAVINCS MD",
+        body: "Pambe Kwa, allan@Davincs",
         thumbnailUrl: "https://files.catbox.moe/6qm1zj.jpeg",
         sourceUrl: "https://whatsapp.com/channel/0029VakSTEQGZNCk6CqE9E2P",
         mediaType: 1,
