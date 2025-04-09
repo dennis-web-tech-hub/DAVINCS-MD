@@ -35,7 +35,7 @@
 ### Step 2️⃣ **Get Your Session ID**
 - **[QR SCANNER](https://davincs-id.onrender.com/wasiqr)**
 - **[Pairing Code 1](https://davincsmd-session.onrender.com/pair)**
-- - **[Pairing Code 2 🔥🔥](https://davincs-id.onrender.com/pair)**
+- **[Pairing Code 2 🔥🔥](https://davincs-id.onrender.com/pair)**
 - **[SESSION Id info](https://davincs-id.onrender.com/)**
   
 ⚠️ **Important:** Copy and save your **Session ID**, you will need it for deployment.
