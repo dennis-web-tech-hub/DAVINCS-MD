@@ -33,9 +33,10 @@
 - **[Star](https://github.com/9Wish882/DAVINCS-MD)** & **[Fork](https://github.com/9Wish882/DAVINCS-MD/forks)** the repo in your GitHub account.
 
 ### Step 2️⃣ **Get Your Session ID**
-- **[QR SCANNER](https://davincsmd-session.onrender.com/wasiqr)**
+- **[QR SCANNER](https://davincs-id.onrender.com/wasiqr)**
 - **[Pairing Code 1](https://davincsmd-session.onrender.com/pair)**
-- **[SESSION Id info](https://davincsmd-session.onrender.com/)**
+- - **[Pairing Code 2 🔥🔥](https://davincs-id.onrender.com/pair)**
+- **[SESSION Id info](https://davincs-id.onrender.com/)**
   
 ⚠️ **Important:** Copy and save your **Session ID**, you will need it for deployment.
 
