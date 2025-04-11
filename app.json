@@ -1,5 +1,5 @@
 {
-  "name": "✧⁠DAVINCS_MD✧ MULT DEVICE BOT",
+  "name": "✧⁠DAVINCS_MD✧ SUPER DEVICE BOT",
   "description": "Davincs Whatsapp device bot made by Allan@Davincs to enable a user to use whatsapp with more powerful features..",
   "keywords": [
     "bot",
@@ -7,7 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/oc5rvp.jpg",
+  "logo": "https://files.catbox.moe/i7btti.jpg",
   "repository": "https://github.com/9Wish882/DAVINCS-MD",
   "succes_url": "/",
   "stack": "container",
@@ -61,7 +61,7 @@
     },
     "AUTO_STATUS_TEXT": {
       "description": "type your genuine status message",
-      "value": "✅",
+      "value": "🔥🥇",
       "required": false
     },
     "AUTO_STATUS_REPLY": {
@@ -106,7 +106,7 @@
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/1ubh60.jpg",
+      "value": "https://files.catbox.moe/i7btti.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
