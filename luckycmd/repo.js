@@ -39,13 +39,13 @@ const fetchGitHubStats = async () => {
 ezra({
     nomCom: "repo",
     aliases: ["script", "cs"],
-    reaction: '🍼',
+    reaction: '🚀',
     nomFichier: __filename
 }, async (command, reply, context) => {
     const { repondre, auteurMessage, nomAuteurMessage } = context;
 
     try {
-        const response = await axios.get("https://api.github.com/repos/9Wish882/DAVINCS_MD");
+        const response = await axios.get("https://api.github.com/repos/9Wish882/DAVINCS-MD");
         const repoData = response.data;
 
         if (repoData) {
