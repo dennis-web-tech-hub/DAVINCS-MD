@@ -96,7 +96,7 @@ setTimeout(() => {
 
         if (deletedMessage) {
           const deletedBy = deletedMessage.key.participant || deletedMessage.key.remoteJid;
-          let notification = `*🤦DAVINCS ANTIDELETE🤦*`;
+          let notification = `*🔥DAVINCS ANTIDELETE💚*`;
           notification += `*Time deleted🌹:* ${new Date().toLocaleString()}`;
           notification += `*Deleted by🌺:* @${deletedBy.split('@')[0]}`;
 
@@ -181,7 +181,7 @@ setTimeout(() => {
     }
 
     let lastReactionTime = 0;
-    const loveEmojis = ["❤️", "💖", "💘", "💝", "💓", "💌", "💕", "😎", "🔥", "💥", "💯", "✨", "🌟", "🌈", "⚡", "💎", "🌀", "👑", "🎉", "🎊", "🦄", "👽", "🛸", "🚀", "🦋", "💫", "🍀", "🎶", "🎧", "🎸", "🎤", "🏆", "🏅", "🌍", "🌎", "🌏", "🎮", "🎲", "💪", "🏋️", "🥇", "👟", "🏃", "🚴", "🚶", "🏄", "⛷️", "🕶️", "🧳", "🍿", "🥂", "🍻", "🍷", "🍸", "🥃", "🍾", "🎯", "⏳", "🎁", "🎈", "🎨", "🌻", "🌸", "🌺", "🌹", "🌼", "🌞", "🌝", "🌜", "🌙", "🌚", "🍀", "🌱", "🍃", "🍂", "🌾", "🐉", "🐍", "🦓", "🦄", "🦋", "🦧", "🦘", "🦨", "🦡", "🐉", "🐅", "🐆", "🐓", "🐢", "🐊", "🐠", "🐟", "🐡", "🦑", "🐙", "🦀", "🐬", "🦕", "🦖", "🐾", "🐕", "🐈", "🐇", "🐾"];
+    const loveEmojis = ["❤️", "💖","💙","🤍","💛","💝", "💓", "💌", "💕","💚","🌝"];
 
     if (conf.AUTO_REACT_STATUS === "yes") {
       console.log("AUTO_REACT_STATUS is enabled. Listening for status updates...");
