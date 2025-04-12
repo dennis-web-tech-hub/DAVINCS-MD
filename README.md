@@ -1,59 +1,84 @@
-<h1 align="center" style="color: #FF6347; text-shadow: 0 0 10px #FF6347; animation: glow 2s infinite alternate;">🌟 DAVINCS-MD ULTIMATE 🌟</h1>
-<h3 align="center" style="color: #1BAFBA; font-weight: bold; margin-top: -15px;">The Future of WhatsApp Bots</h3>
+<h1 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">🌟 WELCOME TO DAVINCS-MD 🌟</h1>
+<h3 align="center" style="color: #1BAFBA; font-weight: bold;">The Ultimate WhatsApp Bot Experience</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=3500&pause=800&color=FF6347&center=true&width=900&height=80&lines=YOUR+ULTIMATE+WHATSAPP+SOLUTION;POWERED+BY+AI+TECHNOLOGY;UNMATCHED+SPEED+AND+RELIABILITY;START+EXPERIENCING+TODAY!" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&duration=3000&pause=500&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+👋;THIS+IS+DAVINCS-MD+🤖;MOST+POWERFUL+WHATSAPP+BOT+⚡;CREATED+BY+ALLAN+DAVINCS+💻;OFFICIALLY+LAUNCHED+01.4.2025+🎉" alt="Typing Animation" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://files.catbox.moe/p2v2h4.jpg" alt="DAVINCS-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); border: 3px solid #FF6347;"/>
+</p>
+
+---
+
+## 🎥 **Video Introduction**
+<div align="center">
+  
+[![DAVINCS-MD Demo Video](https://img.shields.io/badge/▶️-WATCH_INTRO_VIDEO-FF0000?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+  
+*Click the button above to see DAVINCS-MD in action!*
+
+</div>
+
+---
+
+## 🔥 **Why Choose DAVINCS-MD?**
+<div align="center">
+  
+| Feature | Description |
+|---------|-------------|
+| ⚡ **Blazing Fast** | <img src="https://img.shields.io/badge/SPEED-0.2s_response-00FF00?style=flat-square&logo=fastapi"> |
+| 🔒 **Secure** | <img src="https://img.shields.io/badge/ENCRYPTION-End--to--end-1BAFBA?style=flat-square&logo=keycdn"> |
+| 🎨 **Rich Features** | <img src="https://img.shields.io/badge/COMMANDS-200+-FF6347?style=flat-square&logo=terminal"> |
+| 🌐 **24/7 Online** | <img src="https://img.shields.io/badge/UPTIME-99.9%25-9400D3?style=flat-square&logo=heroku"> |
+
+</div>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <a href="https://github.com/9Wish882/DAVINCS-MD">
+    <img src="https://github-readme-stats.vercel.app/api?username=9Wish882&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=9Wish882&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400"/>
   </a>
 </p>
 
 ---
 
-## 🎬 **Live Demo Video**
+## 🚀 **3-Step Deployment**
 <div align="center">
-  
-https://files.catbox.moe/kjryfy.mp4
 
-*Replace `kjryfy` with your actual Catbox video ID*
+### 1️⃣ **Fork & Star**
+[![Fork](https://img.shields.io/github/forks/9Wish882/DAVINCS-MD?label=FORK&style=social&logo=git&logoColor=white)](https://github.com/9Wish882/DAVINCS-MD/fork)
+[![Star](https://img.shields.io/github/stars/9Wish882/DAVINCS-MD?label=STAR&style=social&logo=github)](https://github.com/9Wish882/DAVINCS-MD)
 
-</div>
+### 2️⃣ **Get Session ID**
+[![QR Scanner](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white&labelColor=1BAFBA)](https://davincs-id.onrender.com/wasiqr)
+[![Pair Code](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white&labelColor=FF6347)](https://davincs-id.onrender.com/pair)
 
----
-
-## 🔥 **Key Features**
-<p align="center">
-  <!-- Animated feature badges -->
-  <img src="https://img.shields.io/badge/💬_AI_Chat-FF6347?style=for-the-badge&logo=openai&logoColor=white&labelColor=1A1A1A" alt="AI Chat"> 
-  <img src="https://img.shields.io/badge/🖼️_Sticker_Maker-1BAFBA?style=for-the-badge&logo=stickermule&logoColor=white&labelColor=1A1A1A" alt="Sticker Maker">
-  <img src="https://img.shields.io/badge/🎵_Music_Bot-9400D3?style=for-the-badge&logo=deezer&logoColor=white&labelColor=1A1A1A" alt="Music">
-  <img src="https://img.shields.io/badge/🎮_Mini_Games-00FF00?style=for-the-badge&logo=gamejolt&logoColor=white&labelColor=1A1A1A" alt="Games">
-  <img src="https://img.shields.io/badge/🛡️_Anti-Spam-FF0000?style=for-the-badge&logo=shield-check&logoColor=white&labelColor=1A1A1A" alt="Anti-Spam">
-</p>
-
----
-
-## 🚀 **Quick Deploy**
-<div align="center" style="margin: 20px 0;">
-
-[![Fork Now](https://img.shields.io/badge/FORK_NOW-1BAFBA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/9Wish882/DAVINCS-MD/fork)
-[![Deploy](https://img.shields.io/badge/🚀_DEPLOY_NOW-FF6347?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/9Wish882/DAVINCS-MD)
+### 3️⃣ **Deploy Now!**
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/9Wish882/DAVINCS-MD)
 
 </div>
 
 ---
 
-## 📊 **Real-Time Stats**
+## 🎯 **Features Showcase**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=9Wish882&repo=DAVINCS-MD&theme=radical&show_owner=true" alt="Repo Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Wish882&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+  <img src="https://img.shields.io/badge/AI_CHAT-FF6347?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/STICKER_MAKER-1BAFBA?style=for-the-badge&logo=stickermule&logoColor=white">
+  <img src="https://img.shields.io/badge/MUSIC_DOWNLOADER-9400D3?style=for-the-badge&logo=deezer&logoColor=white">
+  <img src="https://img.shields.io/badge/GAME_MODULES-00FF00?style=for-the-badge&logo=gamejolt&logoColor=white">
+  <img src="https://img.shields.io/badge/ADMIN_TOOLS-FF0000?style=for-the-badge&logo=adminer&logoColor=white">
 </p>
 
 ---
 
 ## ⚠️ **Important Notice**
-<div align="center" style="background-color: #1A1A1A; padding: 15px; border-radius: 10px; margin: 20px 0; border-left: 5px solid #FF6347;">
-  
 ```diff
-! This is official version only
-- Modified versions won't get support
-+ Licensed under DAVINCS-TECH 2025
+- REDISTRIBUTION STRICTLY PROHIBITED 
++ OFFICIAL SUPPORT ONLY FOR ORIGINAL VERSION
+! VIOLATORS WILL BE BLACKLISTED
