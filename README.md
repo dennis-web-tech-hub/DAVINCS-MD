@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/p2v2h4.jpg" alt="DAVINCS-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); border: 3px solid #FF6347;"/>
+  <img src="https://files.catbox.moe/uq0rgr.jpg" alt="DAVINCS-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); border: 3px solid #FF6347;"/>
 </p>
 
 ---
@@ -77,8 +77,36 @@
 
 ---
 
+🌐 **Connect With Us**
+<p align="center">
+  <a href="https://davincs-online.netlify.app">
+    <img src="https://img.shields.io/badge/OFFICIAL_WEBSITE-1BAFBA?style=for-the-badge&logo=google-chrome&logoColor=white" width="220">
+  </a>
+  <a href="mailto:support@davincs.com">
+    <img src="https://img.shields.io/badge/📧_EMAIL_SUPPORT-FF6347?style=for-the-badge&logo=mail.ru&logoColor=white" width="220">
+  </a>
+</p>
+
+---
+
+<h3 align="center" style="color: #FF6347; animation: pulse 1.5s infinite;">⚡ OFFICIAL RELEASE v3.0 ⚡</h3>
+
+<style>
+  @keyframes glow {
+    0% { text-shadow: 0 0 5px #FF6347; }
+    100% { text-shadow: 0 0 15px #FF6347, 0 0 20px #1BAFBA; }
+  }
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.03); }
+    100% { transform: scale(1); }
+  }
+</style>
+
 ## ⚠️ **Important Notice**
 ```diff
 - REDISTRIBUTION STRICTLY PROHIBITED 
 + OFFICIAL SUPPORT ONLY FOR ORIGINAL VERSION
 ! VIOLATORS WILL BE BLACKLISTED
+
+---
