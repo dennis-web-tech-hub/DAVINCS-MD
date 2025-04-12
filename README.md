@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&duration=3000&pause=500&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+👋;THIS+IS+DAVINCS-MD+🤖;MOST+POWERFUL+WHATSAPP+BOT+⚡;CREATED+BY+ALLAN+DAVINCS+💻;OFFICIALLY+LAUNCHED+01.4.2025+🎉" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&duration=3000&pause=500&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+👋;THIS+IS+DAVINCS-MD+🤖;MOST+POWERFUL+WHATSAPP+BOT+⚡;CREATED+BY+ALLAN+DAVINCS+💻;OFFICIALLY+LAUNCHED+05.4.2025+🎉" alt="Typing Animation" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 |---------|-------------|
 | ⚡ **Blazing Fast** | <img src="https://img.shields.io/badge/SPEED-0.2s_response-00FF00?style=flat-square&logo=fastapi"> |
 | 🔒 **Secure** | <img src="https://img.shields.io/badge/ENCRYPTION-End--to--end-1BAFBA?style=flat-square&logo=keycdn"> |
-| 🎨 **Rich Features** | <img src="https://img.shields.io/badge/COMMANDS-200+-FF6347?style=flat-square&logo=terminal"> |
+| 🎨 **Rich Features** | <img src="https://img.shields.io/badge/COMMANDS-600+-FF6347?style=flat-square&logo=terminal"> |
 | 🌐 **24/7 Online** | <img src="https://img.shields.io/badge/UPTIME-99.9%25-9400D3?style=flat-square&logo=heroku"> |
 
 </div>
@@ -54,6 +54,8 @@
 ### 1️⃣ **Fork & Star**
 [![Fork](https://img.shields.io/github/forks/9Wish882/DAVINCS-MD?label=FORK&style=social&logo=git&logoColor=white)](https://github.com/9Wish882/DAVINCS-MD/fork)
 [![Star](https://img.shields.io/github/stars/9Wish882/DAVINCS-MD?label=STAR&style=social&logo=github)](https://github.com/9Wish882/DAVINCS-MD)
+
+just tap the fork to fork and star ✨ button to give star ⭐ this repository 
 
 ### 2️⃣ **Get Session ID**
 [![QR Scanner](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white&labelColor=1BAFBA)](https://davincs-id.onrender.com/wasiqr)
