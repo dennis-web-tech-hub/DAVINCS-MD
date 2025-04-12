@@ -77,7 +77,14 @@
 
 ---
 
-🌐 **Connect With Us**
+## ⚠️ **Important Notice**
+```diff
+- REDISTRIBUTION STRICTLY PROHIBITED 
++ OFFICIAL SUPPORT ONLY FOR ORIGINAL VERSION
+! VIOLATORS WILL BE BLACKLISTED
+
+---
+##📌 **Connect With Us**
 <p align="center">
   <a href="https://davincs-online.netlify.app">
     <img src="https://img.shields.io/badge/OFFICIAL_WEBSITE-1BAFBA?style=for-the-badge&logo=google-chrome&logoColor=white" width="220">
@@ -102,11 +109,3 @@
     100% { transform: scale(1); }
   }
 </style>
-
-## ⚠️ **Important Notice**
-```diff
-- REDISTRIBUTION STRICTLY PROHIBITED 
-+ OFFICIAL SUPPORT ONLY FOR ORIGINAL VERSION
-! VIOLATORS WILL BE BLACKLISTED
-
----
