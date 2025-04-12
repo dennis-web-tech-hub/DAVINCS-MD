@@ -1,77 +1,84 @@
-<h1 align="center" style="color: #FF6347;"> THANKS FOR CHOOSING DAVINCS-MD - THE BEST WHATSAPP BOT </h1>
+<h1 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">🌟 WELCOME TO DAVINCS-MD 🌟</h1>
+<h3 align="center" style="color: #1BAFBA; font-weight: bold;">The Ultimate WhatsApp Bot Experience</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HELLOO+THIS+IS+DAVINCS-MD;BEST++WHATSAPP+BOT;CREATED+BY+ALLAN+DAVINCS;RELEASED+01.4.2025;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&duration=3000&pause=500&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+👋;THIS+IS+DAVINCS-MD+🤖;MOST+POWERFUL+WHATSAPP+BOT+⚡;CREATED+BY+ALLAN+DAVINCS+💻;OFFICIALLY+LAUNCHED+01.4.2025+🎉" alt="Typing Animation" />
   </a>
 </p>
 
 <p align="center">
-  <img alt="DAVINCS-MD" width="700" height="300" src="https://files.catbox.moe/p2v2h4.jpg">
+  <img src="https://files.catbox.moe/p2v2h4.jpg" alt="DAVINCS-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); border: 3px solid #FF6347;"/>
 </p>
 
 ---
 
-## ⭐ **About This Repository**
-<p align="center">
-  <a href="https://github.com/9Wish882/DAVINCS-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/9Wish882/DAVINCS-MD?style=for-the-badge&logo=github&color=ff9800" alt="Stars" />
-  </a>
-  <a href="https://github.com/9Wish882/DAVINCS-MD/network/members">
-    <img src="https://img.shields.io/github/forks/9Wish882/DAVINCS-MD?style=for-the-badge&logo=github&color=4CAF50" alt="Forks" />
-  </a>
-  <a href="https://github.com/9Wish882/DAVINCS-MD/watchers">
-    <img src="https://img.shields.io/github/watchers/9Wish882/DAVINCS-MD?style=for-the-badge&logo=github&color=2196F3" alt="Watchers" />
-  </a>
-</p>
-
----
-
-## 🚀 **Quick Start:**
-
-### Step 1️⃣ **Fork & Star Repo**
-- **[Star](https://github.com/9Wish882/DAVINCS-MD)** & **[Fork](https://github.com/9Wish882/DAVINCS-MD/forks)** the repo in your GitHub account.
-
-### Step 2️⃣ **Get Your Session ID**
-- **[QR SCANNER](https://davincs-id.onrender.com/wasiqr)**
-- **[Pairing Code 1](https://davincsmd-session.onrender.com/pair)**
-- **[Pairing Code 2 🔥🔥](https://davincs-id.onrender.com/pair)**
-- **[SESSION Id info](https://davincs-id.onrender.com/)**
+## 🎥 **Video Introduction**
+<div align="center">
   
-⚠️ **Important:** Copy and save your **Session ID**, you will need it for deployment.
+[![DAVINCS-MD Demo Video](https://img.shields.io/badge/▶️-WATCH_INTRO_VIDEO-FF0000?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+  
+*Click the button above to see DAVINCS-MD in action!*
+
+</div>
 
 ---
 
-## 🚀 ** Now Deploy to Heroku (One-Click Deploy!)**
-1️⃣ **Create a Heroku Account (If you don’t have one)**  
-   <p align="center">
-     <a href="https://signup.heroku.com">
-       <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
-     </a>
-   </p>
+## 🔥 **Why Choose DAVINCS-MD?**
+<div align="center">
+  
+| Feature | Description |
+|---------|-------------|
+| ⚡ **Blazing Fast** | <img src="https://img.shields.io/badge/SPEED-0.2s_response-00FF00?style=flat-square&logo=fastapi"> |
+| 🔒 **Secure** | <img src="https://img.shields.io/badge/ENCRYPTION-End--to--end-1BAFBA?style=flat-square&logo=keycdn"> |
+| 🎨 **Rich Features** | <img src="https://img.shields.io/badge/COMMANDS-200+-FF6347?style=flat-square&logo=terminal"> |
+| 🌐 **24/7 Online** | <img src="https://img.shields.io/badge/UPTIME-99.9%25-9400D3?style=flat-square&logo=heroku"> |
 
-2️⃣ **Click below to deploy DAVINCS-MD directly to Heroku:**  
-   <p align="center">
-     <a href="https://heroku.com/deploy?template=https://github.com/9Wish882/DAVINCS-MD">
-       <img src="https://www.herokucdn.com/deploy/button.svg" width="220" height="38.45"/>
-     </a>
-   </p>
-
-3️⃣ **After Deployment Make your to follow my channel for bot update:**   
+</div>
 
 ---
 
-## ⚠️ **Disclaimer**
-- **Modification or redistribution** of this script is **prohibited**.  
-- **No support** will be provided for modified versions.  
+## 📊 **GitHub Stats**
+<p align="center">
+  <a href="https://github.com/9Wish882/DAVINCS-MD">
+    <img src="https://github-readme-stats.vercel.app/api?username=9Wish882&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=9Wish882&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400"/>
+  </a>
+</p>
 
 ---
 
-## 🛠 **Need Help?**
-If you need assistance:
-- **[Click Here for Support](https://messages-snowy.vercel.app)**  
+## 🚀 **3-Step Deployment**
+<div align="center">
+
+### 1️⃣ **Fork & Star**
+[![Fork](https://img.shields.io/github/forks/9Wish882/DAVINCS-MD?label=FORK&style=social&logo=git&logoColor=white)](https://github.com/9Wish882/DAVINCS-MD/fork)
+[![Star](https://img.shields.io/github/stars/9Wish882/DAVINCS-MD?label=STAR&style=social&logo=github)](https://github.com/9Wish882/DAVINCS-MD)
+
+### 2️⃣ **Get Session ID**
+[![QR Scanner](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white&labelColor=1BAFBA)](https://davincs-id.onrender.com/wasiqr)
+[![Pair Code](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white&labelColor=FF6347)](https://davincs-id.onrender.com/pair)
+
+### 3️⃣ **Deploy Now!**
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/9Wish882/DAVINCS-MD)
+
+</div>
 
 ---
 
-### 🎉 **Thank You for Choosing DAVINCS-MD!**
-📌 **© 2025 All Rights Reserved**
+## 🎯 **Features Showcase**
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_CHAT-FF6347?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/STICKER_MAKER-1BAFBA?style=for-the-badge&logo=stickermule&logoColor=white">
+  <img src="https://img.shields.io/badge/MUSIC_DOWNLOADER-9400D3?style=for-the-badge&logo=deezer&logoColor=white">
+  <img src="https://img.shields.io/badge/GAME_MODULES-00FF00?style=for-the-badge&logo=gamejolt&logoColor=white">
+  <img src="https://img.shields.io/badge/ADMIN_TOOLS-FF0000?style=for-the-badge&logo=adminer&logoColor=white">
+</p>
+
+---
+
+## ⚠️ **Important Notice**
+```diff
+- REDISTRIBUTION STRICTLY PROHIBITED 
++ OFFICIAL SUPPORT ONLY FOR ORIGINAL VERSION
+! VIOLATORS WILL BE BLACKLISTED
