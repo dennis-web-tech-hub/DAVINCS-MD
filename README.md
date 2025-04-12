@@ -14,7 +14,7 @@
   
 https://files.catbox.moe/kjryfy.mp4
 
-*Replace `YOUR_VIDEO_ID` with your actual Catbox video ID*
+*Replace `kjryfy` with your actual Catbox video ID*
 
 </div>
 
