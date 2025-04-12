@@ -91,19 +91,6 @@
 
 <h3 align="center" style="color: #FF6347; animation: pulse 1.5s infinite;">⚡ OFFICIAL RELEASE v3.0 ⚡</h3>
 
-<style>
-  @keyframes glow {
-    0% { text-shadow: 0 0 5px #FF6347; }
-    100% { text-shadow: 0 0 15px #FF6347, 0 0 20px #1BAFBA; }
-  }
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.03); }
-    100% { transform: scale(1); }
-  }
-</style>
-
-
 ## ⚠️ **Important Notice**
 ```diff
 - REDISTRIBUTION STRICTLY PROHIBITED 
