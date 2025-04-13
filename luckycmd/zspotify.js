@@ -4,7 +4,7 @@ const axios = require("axios");
 ezra({
   nomCom: "spotifylist",
   aliases: ["spotifysearch", "splaylist"],
-  categorie: "Fledi-search",
+  categorie: "Allan-search",
   reaction: "🎬"
 }, async (dest, zk, commandeOptions) => {
   const { repondre, arg } = commandeOptions;
