@@ -28,7 +28,8 @@ async function loading(dest, zk) {
     "🟥🟥🟦🟦🟦🟦🟥🟥꧁60%꧂",
     "🟥🟥🟥🟥🟦🟦🟦🟦꧁80%꧂",
     "🟦🟦🟥🟥🟥🟥🟦🟦꧁100%꧂",
-    "*𝕷𝕺𝕬𝕯𝕴𝕹𝕲 ɬɧąŋƙ ყơų🤦*"
+    "*D̷A̷V̷I̷N̷C̷S̷:M̷D̷ s̷p̷e̷e̷d̷ ⚡⚡*",
+    "*c̲h̲a̲n̲n̲e̲l̲y̲ 👉* https://whatsapp.com/channel/0029VakSTEQGZNCk6CqE9E2P"
   ];
 
   let { key } = await zk.sendMessage(dest, { text: 'Loading Please Wait' });
