@@ -28,7 +28,7 @@ async function loading(dest, zk) {
     "🟥🟥🟦🟦🟦🟦🟥🟥꧁60%꧂",
     "🟥🟥🟥🟥🟦🟦🟦🟦꧁80%꧂",
     "🟦🟦🟥🟥🟥🟥🟦🟦꧁100%꧂",
-    "*𝕷𝕺𝕬𝕯𝕴𝕹𝕲 ɬɧąŋƙ ყơų🤦*"
+    "*𝕷𝕺𝕬𝕯𝕴𝕹𝕲 𝕤𝕦𝕡𝕖𝕣 𝕗𝕒𝕤𝕥 𝕤𝕡𝕖𝕖𝕕⚡⚡*"
   ];
 
   let { key } = await zk.sendMessage(dest, { text: 'Loading Please Wait' });
@@ -314,7 +314,7 @@ ezra(
     aliases: ['speed', 'latency'],
     desc: 'To check bot response time',
     categorie: 'system', // Fixed the typo here (Categorie -> categorie)
-    reaction: '🍼',
+    reaction: '⚡',
     fromMe: true, // Removed quotes to make it a boolean
   },
   async (dest, zk) => {
