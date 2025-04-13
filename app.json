@@ -56,7 +56,7 @@
     },
     "PM_PERMIT": {
       "description": "Restrict other users from using your bot in private messages (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_STATUS_TEXT": {
@@ -101,12 +101,12 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "Allan@Davincs",
+      "value": "@Davincs🚀⚡",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/i7btti.jpg",
+      "value": "https://files.catbox.moe/4bsa99.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
