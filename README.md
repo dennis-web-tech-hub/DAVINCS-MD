@@ -57,9 +57,10 @@
 
 just tap the fork to fork and star ✨ button to give star ⭐ this repository 
 
-### 2️⃣ **Get Session ID**
-[![QR Scanner](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white&labelColor=1BAFBA)](https://davincs-id.onrender.com/wasiqr)
-[![Pair Code](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white&labelColor=FF6347)](https://davincs-id.onrender.com/pair)
+### 2️⃣ **Get your Session ID here**
+[![GET SESSION ID](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white&labelColor=FF6347)](https://davincs-id.onrender.com)
+
+𝐑𝐞𝐦𝐞𝐦𝐛𝐞𝐫 𝐭𝐨 𝐜𝐨𝐩𝐲 𝐢𝐭 , 𝐲𝐨𝐮 𝐰𝐢𝐥𝐥 𝐧𝐞𝐞𝐝 𝐢𝐭 𝐝𝐮𝐫𝐢𝐧𝐠 𝐝𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭
 
 ### 3️⃣ **Deploy Now!**
 [![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/9Wish882/DAVINCS-MD)
