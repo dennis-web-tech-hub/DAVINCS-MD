@@ -1,5 +1,5 @@
 {
-  "name": "✧⁠DAVINCS_MD✧ MULT DEVICE BOT",
+  "name": "✧⁠𝐃𝐀𝐕𝐈𝐍𝐂𝐒_𝐌𝐃✧ MULT DEVICE BOT",
   "description": "Davincs Whatsapp device bot made by Allan@Davincs to enable a user to use whatsapp with more powerful features..",
   "keywords": [
     "bot",
@@ -76,12 +76,12 @@
     },
     "BOT_NAME": {
       "description": "you must name your bot huh!!!!!!",
-      "value": "✧⁠🅳🅰🆅🅸🅽🅲🆂_🅼🅳✧",
+      "value": "✧𝐃𝐀𝐕𝐈𝐍𝐂𝐒-𝐌𝐃✧",
       "required": false 
     },
     "PUBLIC_MODE": {
       "description": "Set 'yes' to make your bot public or 'no' to keep it private",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -101,7 +101,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "ᴅᴀᴠɪɴᴄs⚡",
+      "value": "𝐀𝐥𝐥𝐚𝐧#𝐃𝐚𝐯𝐢𝐧𝐜𝐬⚡",
       "required": false
     },
     "URL": {
