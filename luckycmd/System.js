@@ -138,7 +138,7 @@ ezra({
     fileName: 'shizo',
     contextInfo: {
       externalAdReply: {
-        title: 'THIS IS DAVINCS_MD ALIVE* AND SURVIVE MY FRIEND DONT WORRY',
+        title: 'THIS IS DAVINCS_MD IS ALIVE* SO SURVIVE MY FRIEND DONT WORRY',
         body: conf.OWNER_NAME,
         thumbnailUrl: conf.URL,
         sourceUrl: conf.GURL, // Corrected variable name
@@ -315,7 +315,7 @@ ezra(
     aliases: ['speed', 'latency'],
     desc: 'To check bot response time',
     categorie: 'system', // Fixed the typo here (Categorie -> categorie)
-    reaction: '🍼',
+    reaction: '⚡',
     fromMe: true, // Removed quotes to make it a boolean
   },
   async (dest, zk) => {
