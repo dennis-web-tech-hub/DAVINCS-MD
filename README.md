@@ -3,9 +3,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=3500&pause=800&color=FF6347&center=true&width=900&height=80&lines=YOUR+ULTIMATE+WHATSAPP+SOLUTION;POWERED+BY+AI+TECHNOLOGY;UNMATCHED+SPEED+AND+RELIABILITY;START+EXPERIENCING+TODAY!" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&duration=3000&pause=500&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+👋;THIS+IS+DAVINCS-MD+🤖;MOST+POWERFUL+WHATSAPP+BOT+⚡;CREATED+BY+ALLAN+DAVINCS+💻;OFFICIALLY+LAUNCHED+01.4.2025+🎉" alt="Typing Animation" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://files.catbox.moe/p2v2h4.jpg" alt="DAVINCS-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
+</p>
+
 
 ---
 
