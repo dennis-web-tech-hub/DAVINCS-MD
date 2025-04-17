@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/p2v2h4.jpg" alt="DAVINCS-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
+  <img src="https://files.catbox.moe/xbrltv.jpg" alt="DAVINCS-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
 </p>
 
 
