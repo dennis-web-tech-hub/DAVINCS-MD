@@ -1,12 +1,12 @@
 <h1 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">🌟 WELCOME TO DAVINCS-MD 🌟</h1>
-<h3 align="center" style="color: #1BAFBA; font-weight: bold;">The Ultimate WhatsApp Bot Experience</h3>
+<h3 align="center" style="color: #1BAFBA; font-weight: bold;">The Ultimate WhatsApp Bot Experience
+</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&duration=3000&pause=500&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+👋;THIS+IS+DAVINCS-MD+🤖;MOST+POWERFUL+WHATSAPP+BOT+⚡;CREATED+BY+ALLAN+DAVINCS+💻;OFFICIALLY+LAUNCHED+01.4.2025+🎉" alt="Typing Animation" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://files.catbox.moe/p2v2h4.jpg" alt="DAVINCS-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
 </p>
