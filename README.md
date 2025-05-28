@@ -57,9 +57,9 @@
 [![Fork](https://img.shields.io/github/forks/9Wish882/DAVINCS-MD?label=FORK&style=social&logo=git&logoColor=white)](https://github.com/9Wish882/DAVINCS-MD/fork)
 [![Star](https://img.shields.io/github/stars/9Wish882/DAVINCS-MD?label=STAR&style=social&logo=github)](https://github.com/9Wish882/DAVINCS-MD)
 
-just tap the fork to fork and star ✨ button to give star ⭐ this repository 
+just tap the ☝️fork to fork and star ✨ button to give star ⭐ this repository 
 
-### 2️⃣ **Get your Session ID here**
+### 2️⃣ **Get your Session ID 👇here**
 [![GET SESSION ID](https://img.shields.io/badge/GET_SESSION_ID-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white&labelColor=FF6347)](https://davincs-id3.onrender.com/)
 
 𝐑𝐞𝐦𝐞𝐦𝐛𝐞𝐫 𝐭𝐨 𝐜𝐨𝐩𝐲 𝐢𝐭 , 𝐲𝐨𝐮 𝐰𝐢𝐥𝐥 𝐧𝐞𝐞𝐝 𝐢𝐭 𝐝𝐮𝐫𝐢𝐧𝐠 𝐝𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭
